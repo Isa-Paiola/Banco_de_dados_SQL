@@ -9,8 +9,5 @@ Esta guia será dividido em etapas para demonstrar desde a criação de tabelas,
 * __INSERT__ para adicionar registros na tabela
 * __UPDATE__ para atualizar os registros
 * __DELETE__ para remover os registro
-<<<<<<< HEAD
-* __SELECT__ para consultar e visualizar ddos
-=======
-* __SELECT__ para consultar e visualizar ddos
->>>>>>> 6a8285d4e08abc83e863b0a83f5bc727ab23e173
+* __SELECT__ para consultar e visualizar dados
+
