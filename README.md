@@ -11,3 +11,17 @@ Esta guia será dividido em etapas para demonstrar desde a criação de tabelas,
 * __DELETE__ para remover os registro
 * __SELECT__ para consultar e visualizar dados
 
+'''
+
+CREATE DATABASE biblioteca;
+USE biblioteca;
+'''
+
+
+### 1.2 Criando a tabela 'editora' 
+'''
+
+CREATE TABLE editora (
+    id_editora INT PRIMARY KEY AUTO_INCREMENT, nome_editora VARCHAR(100) NOT NULL, pais VARCHAR(50)
+);
+'''
