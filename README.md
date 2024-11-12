@@ -23,11 +23,11 @@ USE biblioteca;
 
 ### 1.2 Criando a tabela 'editora' 
 ```
-
-```CREATE TABLE editora (
+CREATE TABLE editora (
     id_editora INT PRIMARY KEY AUTO_INCREMENT,
     nome_editora VARCHAR(100) NOT NULL, pais VARCHAR(50)
 );
+```
 
 
 
